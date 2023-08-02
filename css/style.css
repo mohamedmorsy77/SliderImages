@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+img {
+    position: relative;
+}
+#title {
+ position: absolute;
+ width: 600px;
+ height: 100px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background-color: blueviolet;
+ color: white;
+ font-size: 20px;
+ font-weight: bold;
+ margin-top: -104px;
+}
+.inputs {
+    text-align: center;
+}
